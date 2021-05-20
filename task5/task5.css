@@ -1,0 +1,18 @@
+#chatMessages {
+	list-style-type: none;
+}
+
+#response {
+	margin-top: 5px;
+	color: rgb(0, 255, 4);
+	text-align: left;
+}
+
+#error {
+	margin-top: 5px text-color:red;
+	text-align: right;
+}
+
+#request {
+	margin-top: 5px text-align: right;
+}
